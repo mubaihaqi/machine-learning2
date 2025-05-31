@@ -1,0 +1,4 @@
+/datasets
+.venv/
+flower_classifier_checkpoint.pth
+resnet18_flower_classifier.pth
