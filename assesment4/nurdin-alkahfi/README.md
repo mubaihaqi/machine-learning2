@@ -79,7 +79,7 @@ Pastikan Anda telah menginstal pustaka berikut:
 ```bash
 pip install torch torchvision matplotlib numpy scikit-learn Pillow seaborn
 
-Cara Menjalankan
+##Cara Menjalankan
 Persiapkan Dataset
 Letakkan data dalam datasets/train dengan subfolder lion dan tiger. Dataset harus dalam format gambar.
 
@@ -89,5 +89,3 @@ Gunakan Jupyter atau Colab untuk membuka dan menjalankan notebook klasifikasi he
 Prediksi Gambar Baru
 Pastikan file checkpoint model tersedia (.pth) dan sesuaikan path gambar pada fungsi predict_image.
 
-
-Jika Anda ingin, saya juga bisa menyimpan isi ini ke dalam file `README.md` dan mengembalikannya sebagai file unduhan. Ingin saya lakukan? ​:contentReference[oaicite:0]{index=0}​
